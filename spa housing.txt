@@ -1,0 +1,61 @@
+ Project abstract should formulate a problem for study. This will be used for assessing the applicant's analytical and research skills
+abstract should be original in applicant’s own words and should limit to 1000 words. The abstract should have applicant's name at the beginning.
+
+The Project abstract should clearly articulate the area of the study and should evidence interest and insights for the subject chosen.
+
+	CV should be limited to Two A4 pages and submitted only in pdf format.
+
+The CV should emphasise only academic achievements and skills, e.g. ranks, merit certificates, internships, publications, research related software skills.
+
+
+
+
+
+
+Topographic maps provides the graphical portrayal of objects present on the surface of the earth. These maps provide the preliminary information about a terrain and thus very useful for engineering works. For most part of India, topographic maps are available which are prepared by the Survey of India. To identify a map of a particular area, a map numbering system has been adopted by Survey of India. The system of identification is as follows:
+
+An International Series (within 4° N to 40° N Latitude and 44° E to 124° E Longitude) at the scale of 1: 1,000,000 is being considered as base map. The base map is divided into sections of 4° latitude x 4° longitude and designated from 1 (at the extreme north-west) to 136, covering only land areas and leaving any 4° square if it falls completely in the sea (Figure 3.8).
+
+For Indian Topographic maps, each section is further divided into 16 sections (4 rows by 4 columns), each of 1° latitude x 1° longitude (1:250,000), staring from a letter A (North-West corner) and ending on P, column-wise. These degree sheets are designated by a number and an alphabet such as 53 C (Figure 3.9).
+
+
+These degree sheets are further sub-divided in the following ways:
+
+Each sheet is divided into four parts (2 rows by 2 columns),, each of 30' latitude x 30' longitude (1:100,000) designating them by cardinal directions NW, NE, SW, and SE. Such sheets are identified as 53 M/SE (Figure 3.10).
+
+Degree sheets have also been divided into 16 sheets (4 rows by 4 columns), each 15' latitude x 15' longitude (1:50,000) and numbered from 1 (at the north-west corner of the particular degree sheet) to 16 columnwise and are identified as 53 B/3 (Figure 3.11).
+
+Each 1:50,000 scale sheet contains four (2 rows by 2 columns) 1:25,000 sheet ( 7' 1/2 latitude x 7' 1/2 longitude ) which are numbered NW, NE, SW, and SE. Such sheets are identified as 53 O/14/NE (Figure 3.12).
+
+In this way, the topographic map of most of the area of India may be acqiured at the scale available and subsequently can be updated and upgraded as required for a particular project. For large scale maps, further surveying needs to carried out.
+
+
+
+
+habitat development
+-housing policy and finance
+-infrastructure and technology
+-design and project formulation
+-real estate and housing markets
+-disaster mitigation and management and legislation
+-international perspectives on housing development
+-national housing policies and programmes
+-housing finance
+-housing design
+-building materials and technology
+-housing project formulation
+-housing development and construction industry
+-real estate planning, design and development
+-non formal housing development and slums
+-housing for disaster affected areas
+
+
+
+    Read the Hindu daily until the week before the exams. Skip Pages 2–8, skip politics, sports, entertainment, celebrity gossip. Take notes on Onenote topic wise. Note down specifically nice phrases which can use in the Mains paper.
+    Read NCERT History, Geography, Polity, Economics, Fine Arts, Culture and take copious notes. Read Ancient History available online (Skip Microeconomics Class 12, Skip World History Class 12. Don’t waste time reading Science, especially Class 11 and 12 - you won’t understand and it hasn’t been tested in the last two years).
+    Read Indian Polity by Laxmikanth, Indian Economy by Sanjiv Verma, Geography by GC Leong and Spectrum Brief History of India (1885–1947)
+    Read Shankar IAS Environment Notes.
+    Do past papers since 2011 religiously as if doing a proper test.
+    Finish a reasonable test series. Something with a maximum of 10–12 tests. ForumIAS was cheap and good quality.
+    Do the ForumIAS Daily Quiz everyday. This year, they had 7 questions a day for 4 months based on IE and Hindu. This will help revise newspapers.
+    Revise 1 and 2 regularly and before the exam. That’s all you need. Except Hindu, you can conveniently finish everything else in 3 months.
